@@ -1,4 +1,5 @@
-The CySEduWarer system delivers an interactive and self-learning cybersecurity education and awareness based on LLMs and RAG.
+**The CySEduWarer system delivers an interactive and self-learning cybersecurity education and awareness based on LLMs and RAG.
+**
 
 **First**: download "cyseduwarer" system using the following command:
   
@@ -20,4 +21,6 @@ The CySEduWarer system delivers an interactive and self-learning cybersecurity e
       http://localhost:8501/
   
 
-by Mohammed A. Saleh (m.saleh@qu.edu.sa)
+
+_by Mohammed A. Saleh (m.saleh@qu.edu.sa)
+_
