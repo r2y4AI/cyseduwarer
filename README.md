@@ -22,5 +22,4 @@
   
 
 
-_by Mohammed A. Saleh (m.saleh@qu.edu.sa)
-_
+by Mohammed A. Saleh (m.saleh@qu.edu.sa)
