@@ -25,3 +25,4 @@
 
 
 by Mohammed A. Saleh (m.saleh@qu.edu.sa)
+Inspired by: https://github.com/tonykipkemboi/ollama_pdf_rag
